@@ -1,7 +1,7 @@
 # TwitterTrends
 Twitter Trends Hashtags and Topics Today
 
-<h2>License</h2><br>
+<h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 <h2>Reporting Issue</h2>
