@@ -1,5 +1,5 @@
 # TwitterTrends
-Twitter Trends Hashtags and Topics Today
+Twitter Trends Hashtags and Topics Today. Explore how Twitter Trend Data can be used to tell stories.
 
 <h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE.md file for details
