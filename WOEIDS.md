@@ -17,8 +17,20 @@
     <th> Ireland </th>
     <th> 23424803 </th>
   </tr>
-   <tr>
+  <tr>
     <th> United Kingdom </th>
     <th> 23424975  </th>
+  </tr>
+  <tr>
+    <th> Mexico </th>
+    <th> 23424900  </th>
+  </tr>
+  <tr>
+    <th> Brazil </th>
+    <th> 23424768  </th>
+  </tr>
+    <tr>
+    <th> United States </th>
+    <th> 23424977  </th>
   </tr>
 </table>
