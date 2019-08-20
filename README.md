@@ -4,6 +4,8 @@ Twitter Trends Hashtags and Topics Today. Explore how Twitter Trend Data can be 
 <h2>Why Twitter Trending Data is important</h2>
 There are times when a Twitter conversation is relevant to the core values of your business. Take part in that conversation and do not shy away. Help people to understand what you and your business stand for and help them.
 
+<h2>Table of Contents</h2>
+
 <h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
